@@ -66,6 +66,8 @@ const { projects, about, ...header } = templateData;
     <meta charset='UTF-8'>
     <meta name='viewport' content='width=device-width, initial-scale=1.0">
     <meta http-equiv='X-UA-Compatible" content="ie=edge">
+    <link href="https://fonts.googleapis.com/css?family=Public+Sans:300i,300,500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
     <title>Portfolio Demo</title>
     </head>
 
